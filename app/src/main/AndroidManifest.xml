@@ -9,8 +9,9 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.App_test">
-        <activity android:name=".Log_in"></activity>
-        <activity android:name=".Sign_in"></activity>
+        <activity android:name=".Main_screen"></activity>
+        <activity android:name=".Log_in" />
+        <activity android:name=".Sign_in" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
